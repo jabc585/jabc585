@@ -7,12 +7,10 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
-- 🔭 Actualmente trabajo como **Analista de Datos** en NetCo, Colombia
-
 - 🌱 Me especializo en **Python y Machine Learning**
 
 - 💼 Tengo experiencia en:
-  - Pipelines de datos con Azure Synapse Analytics
+  - Pipelines de datos con Python y Azure Synapse Analytics
   - Procesamiento de datos con Python (Pandas, PySpark)
   - Soluciones de IA generativa para informes automáticos
   - Optimización de modelos predictivos con Scikit-learn y PyTorch
@@ -83,7 +81,7 @@
 ¿Interesado en colaborar en proyectos de datos o IA? No dudes en contactarme:
 
 - 📧 Email: jabeich.benavides@gmail.com
-- 💼 LinkedIn: [Jabeich Andrés Benavides](https://www.linkedin.com/in/jabeich_benavides/)
+- 💼 LinkedIn: [Jabeich Andrés Benavides](https://www.linkedin.com/in/jabc585/)
 - 🌐 Portfolio: [Próximamente]()
 
 ---
