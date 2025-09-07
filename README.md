@@ -15,12 +15,12 @@
   - Soluciones de IA generativa para informes automáticos
   - Optimización de modelos predictivos con Scikit-learn y PyTorch
 
-- 📫 Cómo contactarme: **jabeich.benavides@gmail.com**
+
 
 
 <br/>
 
-<h3 align="center">Conecta conmigo 🤝</h3>
+<h3 align="center">
 
 <p align="center">
  <div align="center" class="icons-social" style="margin-left: 10px;">
