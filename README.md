@@ -92,3 +92,14 @@
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   <em><b>Me encanta conocer a otros profesionales</b> así que si quieres hablar sobre tecnología, ¡no dudes en contactarme!</em>
 </p>
+
+
+**<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+<div align="center">
+**
