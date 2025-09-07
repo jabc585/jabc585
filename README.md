@@ -83,7 +83,7 @@
 ¿Interesado en colaborar en proyectos de datos o IA? No dudes en contactarme:
 
 - 📧 Email: jabeich.benavides@gmail.com
-- 💼 LinkedIn: [Jabeich Andrés Benavides](https://www.linkedin.com/in/[tu-linkedin]/)
+- 💼 LinkedIn: [Jabeich Andrés Benavides](https://www.linkedin.com/in/jabeich_benavides/)
 - 🌐 Portfolio: [Próximamente]()
 
 ---
