@@ -1,5 +1,18 @@
-<h1 align="center">Hola 👋, soy Jabeich Andrés</h1>
-<h3 align="center">Un Data Expert  </h3>
+<div align="center" style="background-color:#0a0a23; color:white; padding:20px; border-radius:10px">
+
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0a0a23&height=200&section=header&text=Hola%20👋,%20soy%20Jabeich!&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn)
+
+</div>
+
+<h3 align="center">Un Data Expert| Especialista en Python & Machine Learning</h3>
+
+![Python](https://img.shields.io/badge/Python-Expert-green?logo=python)
+![Machine Learning](https://img.shields.io/badge/ML-Specialist-orange?logo=tensorflow)
+![Cloud](https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS%20%7C%20GCP-blue)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success)
+
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jabc585&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="jabc585" /> </p>
 
@@ -55,12 +68,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
-## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jabc585&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabc585&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
 
 ## 🏆 Logros Destacados
 
@@ -69,12 +77,25 @@
 - ✅ Automatización de procesos ETL con Python (30% reducción de tiempo)
 - ✅ Creación de dashboards en Tableau para métricas operativas
 
-## 📚 Proyectos Destacados
+# 🏆 Logros Destacados
 
-<!-- Puedes añadir tus proyectos más importantes aquí -->
-- [Proyecto de Análisis Predictivo](https://github.com/jabc585/proyecto-predictivo)
-- [Automatización de ETL con Azure](https://github.com/jabc585/azure-etl-pipeline)
-- [Dashboard de Métricas Operativas](https://github.com/jabc585/tableau-dashboards)
+| Área | Logro | Impacto |
+|------|-------|---------|
+| **🤖 IA & Machine Learning** | Implementación de pipeline de IA generativa | Generación automática de informes |
+| **⚡ Optimización de Modelos** | Optimización con Scikit-learn y PyTorch | Mejora en precisión predictiva |
+| **📊 Procesamiento de Datos** | Automatización de procesos ETL con Python | **30% reducción** de tiempo |
+| **📈 Business Intelligence** | Creación de dashboards en Tableau | Métricas operativas en tiempo real |
+| **🌐 Desarrollo Full-Stack** | Desarrollo de aplicaciones modernas | Arquitecturas escalables y mantenibles |
+
+## 🚀 Proyectos Destacados
+
+| Proyecto                      | Descripción                                  | Tecnologías                          | Características Clave                                                      |
+| ----------------------------- | -------------------------------------------- | ------------------------------------ | -------------------------------------------------------------------------- |
+| 🎮 **La Búsqueda del Diente** | Juego 3D interactivo con Three.js            | Three.js, Vite, JavaScript, WebGL    | Entorno inmersivo • Sistema de partículas • Responsive • Efectos de sonido |
+| 🏨 **PetLand F5**             | Plataforma full-stack para hotel de mascotas | FastAPI, React, PostgreSQL, Redis    | Sistema RBAC • Arquitectura RESTful • Caché Redis • UI moderna             |
+| 🧠 **Nexus-ML-APP**           | Sistema de clasificación para aerolíneas     | Python, Scikit-learn, Docker, Pandas | Múltiples modelos • Containerización • Pipeline de datos • Optimización    |
+| 🐭 **Ratoncito Pérez**        | Plataforma turística con gamificación        | Python, FastAPI, React, JWT          | Chatbot IA • Sistema de puntos • 10 POIs • Integración APIs                |
+
 
 ## 📫 ¡Hablemos!
 
