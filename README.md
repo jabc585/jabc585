@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a23&height=200&section=header&text=Jabeich%20Benavides&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn" alt="Header" width="100%">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=001f7f&height=200&section=header&text=Jabeich%20Andres&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn" 
+    alt="Header" 
+    width="100%">  
+</div>
 
   <h1>Senior Data Engineer & Business Intelligence Architect</h1>
   <p>Diseño de arquitecturas escalables de datos · Pipelines ETL/ELT · Machine Learning · Estrategia BI</p>
