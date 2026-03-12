@@ -33,8 +33,8 @@
 ## **🧠 Stack Tecnológico**
 
 ### **☁️ Cloud & Infraestructura**
-![GCP](https://img.shields.io/badge/GCP_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GCP Composer](https://img.shields.io/badge/Cloud_Composer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP_BigQuery-28A745?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GCP Composer](https://img.shields.io/badge/Cloud_Composer-FF0000?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GCP Pub/Sub](https://img.shields.io/badge/Pub/Sub-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
