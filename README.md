@@ -92,9 +92,9 @@
 
 | Periodo | Cargo | Empresa | Principales Logros (Métricas) |
 | :--- | :--- | :--- | :--- |
-| **Jul 2024 – actualidad** | **Data Engineer Senior** | **Salud10** (España) | • Automatización de pipelines ETL/ELT en BigQuery, reduciendo latencia de datos en un **25%**.<br>• Diseño de data warehouse y modelos predictivos de demanda asistencial con precisión >85%.<br>• Implementación de dashboards en Power BI/Looker para la alta dirección. |
-| **Ene 2023 – Jul 2024** | **Data Engineering & BI Lead** | **NetCo** (Colorado, EE.UU.) | • Lideré el desarrollo de pipelines en AWS, integrando fuentes CRM/ERP.<br>• Introduje IA generativa con LLMs para reportes ejecutivos, ahorrando **10h/semana**.<br>• Modelos de forecasting con scikit-learn y PyTorch mejoraron la precisión en un **15%**. |
-| **Jun 2022 – Dic 2022** | **Data Analyst Senior** | **EWL** (Polonia) | • Rediseñé flujos de datos logísticos, logrando una reducción del **30%** en tiempo de procesamiento.<br>• Creación de KPIs en tiempo real para la cadena de suministro. |
+| **Jul 2024 – actualidad** | **Architect Data Engineer** | **Salud10** (España) | • Automatización de pipelines ETL/ELT en BigQuery, reduciendo latencia de datos en un **25%**.<br>• Diseño de data warehouse y modelos predictivos de demanda asistencial con precisión >85%.<br>• Implementación de dashboards en Power BI/Looker para la alta dirección. |
+| **Ene 2023 – Jul 2024** | **Data Engineering & BI Lead** | **NetCo**(Colombia)  | • Lideré el desarrollo de pipelines en AWS, integrando fuentes CRM/ERP.<br>• Introduje IA generativa con LLMs para reportes ejecutivos, ahorrando **10h/semana**.<br>• Modelos de forecasting con scikit-learn y PyTorch mejoraron la precisión en un **15%**. |
+| **Jun 2022 – Dic 2022** | **Data Analyst** | **EWL** (Polonia) | • Rediseñé flujos de datos logísticos, logrando una reducción del **30%** en tiempo de procesamiento.<br>• Creación de KPIs en tiempo real para la cadena de suministro. |
 | **Jun 2018 – Jun 2022** | **Especialista en Datos e Investigación** | **ESAP** (Colombia) | • Dirigí estudios geoespaciales sobre conflicto y movilidad poblacional para la Jurisdicción Especial para la Paz (JEP).<br>• Implementación de metodologías de gobernanza y calidad de datos. |
 
 <br>
