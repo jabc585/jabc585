@@ -6,6 +6,29 @@
 </div>
 
 <br>
+<div align="center">
+  <h1><strong>Data Engineer & Business Intelligence Architect</strong></h1>
+  <p>Diseño de arquitecturas escalables de datos · Pipelines ETL/ELT · Machine Learning · Estrategia BI</p>
+
+  <img src="https://komarev.com/ghpvc/?username=jabc585&label=VISITAS%20AL%20PERFIL&color=0e75b6&style=flat" alt="Vistas del perfil" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jabeich-benavides/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jabeich.benavides@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/jabc585" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br>
+<br>
 
 ## **🧠 Stack Tecnológico Senior**
 
@@ -42,29 +65,7 @@
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
-<br>
-<div align="center">
-  <h1><strong>Data Engineer & Business Intelligence Architect</strong></h1>
-  <p>Diseño de arquitecturas escalables de datos · Pipelines ETL/ELT · Machine Learning · Estrategia BI</p>
 
-  <img src="https://komarev.com/ghpvc/?username=jabc585&label=VISITAS%20AL%20PERFIL&color=0e75b6&style=flat" alt="Vistas del perfil" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jabeich-benavides/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jabeich.benavides@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/jabc585" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-<br>
 
 <table align="center" style="border: none;">
   <tr>
