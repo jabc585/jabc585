@@ -30,7 +30,7 @@
 <br>
 <br>
 
-## **🧠 Stack Tecnológico Senior**
+## **🧠 Stack Tecnológico**
 
 ### **☁️ Cloud & Infraestructura**
 ![GCP](https://img.shields.io/badge/GCP_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -71,7 +71,7 @@
   <tr>
     <td width="65%" valign="top">
       <h3><strong>🚀 Trayectoria y Enfoque</strong></h3>
-      <p><strong>Ingeniero de Datos Senior</strong> con más de 5 años de experiencia en entornos Big Data, análisis avanzado y liderazgo técnico. Especializado en el diseño e implementación de arquitecturas escalables, gobernanza de datos y generación de valor de negocio a través de inteligencia artificial y visualización interactiva.</p>
+      <p><strong>Ingeniero de Datos </strong> con más de 5 años de experiencia en entornos Big Data, análisis avanzado y liderazgo técnico. Especializado en el diseño e implementación de arquitecturas escalables, gobernanza de datos y generación de valor de negocio a través de inteligencia artificial y visualización interactiva.</p>
       <ul>
         <li>🔷 <strong>Arquitecto de soluciones end‑to‑end:</strong> desde la ingesta (CRM/ERP, APIs) hasta modelos predictivos y dashboards ejecutivos.</li>
         <li>🔷 <strong>Líder técnico:</strong> gestión en equipos ágiles (Scrum), mentoría y definición de mejores prácticas en ingeniería de datos.</li>
@@ -92,7 +92,7 @@
 
 | Periodo | Cargo | Empresa | Principales Logros (Métricas) |
 | :--- | :--- | :--- | :--- |
-| **Jul 2024 – actualidad** | **Architect Data Engineer** | **Salud10** (España) | • Automatización de pipelines ETL/ELT en BigQuery, reduciendo latencia de datos en un **25%**.<br>• Diseño de data warehouse y modelos predictivos de demanda asistencial con precisión >85%.<br>• Implementación de dashboards en Power BI/Looker para la alta dirección. |
+| **Jul 2024 – actualidad** | **Architect & Data Engineer** | **Salud10** (España) | • Automatización de pipelines ETL/ELT en BigQuery, reduciendo latencia de datos en un **25%**.<br>• Diseño de data warehouse y modelos predictivos de demanda asistencial con precisión >85%.<br>• Implementación de dashboards en Power BI/Looker para la alta dirección. |
 | **Ene 2023 – Jul 2024** | **Data Engineering & BI Lead** | **NetCo**(Colombia)  | • Lideré el desarrollo de pipelines en AWS, integrando fuentes CRM/ERP.<br>• Introduje IA generativa con LLMs para reportes ejecutivos, ahorrando **10h/semana**.<br>• Modelos de forecasting con scikit-learn y PyTorch mejoraron la precisión en un **15%**. |
 | **Jun 2022 – Dic 2022** | **Data Analyst** | **EWL** (Polonia) | • Rediseñé flujos de datos logísticos, logrando una reducción del **30%** en tiempo de procesamiento.<br>• Creación de KPIs en tiempo real para la cadena de suministro. |
 | **Jun 2018 – Jun 2022** | **Especialista en Datos e Investigación** | **ESAP** (Colombia) | • Dirigí estudios geoespaciales sobre conflicto y movilidad poblacional para la Jurisdicción Especial para la Paz (JEP).<br>• Implementación de metodologías de gobernanza y calidad de datos. |
@@ -127,7 +127,7 @@
 - **Estadística** – Universidad Nacional de Colombia (2011-2016)
 - **Gestión de Empresas de Confianza** – SENA (2014-2017)
 
-### **Certificaciones Senior**
+### **Certificaciones **
 - **Data Analytics** – IBM
 - **Data Analysis** – Google
 - **Machine Learning & IA Fundamentals** – AWS
@@ -156,7 +156,7 @@ Me apasiona diseñar soluciones sostenibles, escalables y alineadas con los obje
 
 <div align="center">
   <h2><strong>📫 Conectemos</strong></h2>
-  <p>Si buscas un perfil senior para liderar tu estrategia de datos, arquitecturar pipelines complejos o implementar inteligencia artificial con impacto real, hablemos.</p>
+  <p>Si buscas un perfil para contribuir a tu estrategia de datos, arquitecturar pipelines complejos o implementar inteligencia artificial con impacto real, hablemos.</p>
   
   <a href="https://www.linkedin.com/in/jabeich-benavides/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Agendar%20reunión-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
