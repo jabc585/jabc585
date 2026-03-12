@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <h1><strong>Senior Data Engineer & Business Intelligence Architect</strong></h1>
+  <h1><strong>Data Engineer & Business Intelligence Architect</strong></h1>
   <p>Diseño de arquitecturas escalables de datos · Pipelines ETL/ELT · Machine Learning · Estrategia BI</p>
 
   <img src="https://komarev.com/ghpvc/?username=jabc585&label=VISITAS%20AL%20PERFIL&color=0e75b6&style=flat" alt="Vistas del perfil" />
