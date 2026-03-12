@@ -36,10 +36,10 @@
 ![GCP](https://img.shields.io/badge/GCP_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GCP Composer](https://img.shields.io/badge/Cloud_Composer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GCP Pub/Sub](https://img.shields.io/badge/Pub/Sub-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### **🔄 Procesamiento y Orquestación**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
