@@ -156,7 +156,7 @@ Me apasiona diseñar soluciones sostenibles, escalables y alineadas con los obje
 
 <div align="center">
   <h2><strong>📫 Conectemos</strong></h2>
-  <p>Si buscas un perfil para contribuir a tu estrategia de datos, arquitecturar pipelines complejos o implementar inteligencia artificial con impacto real, hablemos.</p>
+  <p>Si buscas un perfil para contribuir a tu estrategia de datos, arquitecturar pipelines complejos o implementar inteligencia artificial con impacto real, hablemos..</p>
   
   <a href="https://www.linkedin.com/in/jabeich-benavides/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Agendar%20reunión-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
