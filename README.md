@@ -114,7 +114,7 @@
 | :--- | :--- | :--- | :--- |
 | 🏥 **Data Warehouse Clínico** | Integración de datos de pacientes, citas y facturación. Modelado dimensional. | `BigQuery`, `Python`, `Dataform`, `Looker` | Reducción de consultas de 15s a <2s; reportes unificados para dirección. |
 | 📈 **Forecasting de Ventas** | Modelo híbrido (ARIMA + LSTM) para predecir ventas trimestrales. | `PyTorch`, `Scikit-learn`, `SageMaker` | Error de pronóstico reducido en un 18%. |
-| 🗺️ **Geoportal para la Paz** | Plataforma de visualización de datos de conflicto y desplazamiento. | `Geopandas`, `PostgreSQL`, `Power BI` | Herramienta usada por la JEP para diseñar políticas públicas. |
+| 🗺️ **Geoportal para la Paz** | Plataforma de visualización de datos de conflicto y desplazamiento. | `Geopandas`, `PostgreSQL`, `Power BI` | Herramienta usada investigadores de la JEP para estudiar políticas públicas. |
 | 📦 **Automatización Logística** | Sistema de alertas tempranas basado en consumo histórico y demanda. | `Python`, `SQL`, `Tableau` | Reducción de rotura de stock en un 12% y optimización de pedidos. |
 
 <br>
